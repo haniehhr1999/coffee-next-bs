@@ -1,5 +1,5 @@
 # coffee site
-
+view [DEMO](https://www.google.com)
 
 ### dependencies
 1. swipper js
@@ -9,17 +9,21 @@
 
 
 ### modules
-1. First item
-2. Second item
+1. navbar
+2. footer
 3. Third item
 
 ### templates
-1. First item
-2. Second item
-3. Third item
+1. about (SSG)
+2. services (SSG)
+3. newsletter
+4. menu and online reserve
 
 
-### modules
-1. First item
-2. Second item
-3. Third item 
+### pages
+1. about (SSG)
+2. services (SSG)
+3. menu (ISR) 
+4. contact us
+5. detail product 
+6. search result
